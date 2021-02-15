@@ -14,5 +14,5 @@ Aprender, na prática, a aplicar os conceitos de desenvolvimento web, visando me
 
 ##### **STATUS DO PROJETO**
 - O projeto se encontra hoje: 
-[x] Finalizado
-[ ] Em andamento.
+- [x] Finalizado
+- [ ] Em andamento.
